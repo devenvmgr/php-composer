@@ -1,0 +1,21 @@
+
+# Ignore Sensitive data
+.htaccess
+robots.txt
+sitemap.xml
+/*.html
+
+# Ignore node modules
+node_modules/
+
+# Ignore vendor
+vendor/
+
+# Ignore netbeans
+nbproject/
+
+# Ignore dist folder created by gulp
+dist/
+
+# Ignore CSS folder
+assets/css

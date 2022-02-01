@@ -21,4 +21,5 @@ nbproject/
 dist/
 
 # Ignore CSS folder
-assets/css
+assets/css# ignore commit message
+.gitcommit
